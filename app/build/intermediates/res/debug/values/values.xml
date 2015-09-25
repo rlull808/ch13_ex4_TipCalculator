@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/leticia.rabor/AndroidstudioProjects/ch13_ex4_TipCalculator/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Bob%20Lull/AndroidStudioProjects/ch13_ex4_TipCalculator/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Tip Calculator</string>
     <string name="bill_amount"/>
     <string name="bill_amount_label">Bill Amount</string>
+    <string name="buttonSaveTip">Save Tip</string>
     <string name="decrease">-</string>
     <string name="increase">+</string>
     <string name="menu_settings">Settings</string>
@@ -15,7 +16,7 @@
     <string name="title_activity_tip_calculator">Tip Calculator</string>
     <string name="total_amount">$0.00</string>
     <string name="total_amount_label">Total</string>
-    <!-- From: file:/C:/Users/leticia.rabor/AndroidstudioProjects/ch13_ex4_TipCalculator/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Bob%20Lull/AndroidStudioProjects/ch13_ex4_TipCalculator/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Light"/>
 </resources>

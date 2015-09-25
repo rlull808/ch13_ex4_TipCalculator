@@ -116,6 +116,15 @@
         android:layout_alignLeft="@+id/tipTextView"
         android:padding="5dp"
         android:text="@string/total_amount"
-        android:textSize="20sp" />    
+        android:textSize="20sp" />
 
-</RelativeLayout><!-- From: file:/C:/Users/leticia.rabor/AndroidstudioProjects/ch13_ex4_TipCalculator/app/src/main/res/layout/activity_tip_calculator.xml -->
+    <Button
+        android:id="@+id/buttonSaveTip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/buttonSaveTip" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Bob%20Lull/AndroidStudioProjects/ch13_ex4_TipCalculator/app/src/main/res/layout/activity_tip_calculator.xml -->
